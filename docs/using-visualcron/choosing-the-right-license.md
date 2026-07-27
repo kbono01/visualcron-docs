@@ -38,6 +38,18 @@ The acronym DTAP is short for Development, Testing, Acceptance and Production an
 
 For these reasons users choose to purchase multiple or unlimited licenses.
 
+### Choosing the right edition
+
+*VisualCron is available in three editions with different features*
+
+Choose the edition that matches the level of functionality you need:
+
+* **Essentials** - Entry-level edition with the core scheduling and automation features. A good fit for small teams and straightforward automation.
+* **Advanced** - Adds capabilities for growing environments, including Master/Slave synchronization, Managed File Transfer (MFT) server support, the Task Repository, and additional messaging triggers.
+* **Pro** - The full edition for enterprise automation and RPA, adding load balancing, desktop and web browser automation, document scanning, and the complete set of triggers and tasks.
+
+For a full, side-by-side breakdown of the features in each edition, see the [Compare Licenses](https://www.visualcron.com/compare-licenses) page. Not sure which edition is right for you? Use our [license guide](https://www.visualcron.com/choosing-license) to help you choose.
+
 ### FAQ
 
 *Frequently asked questions*
