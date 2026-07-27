@@ -48,17 +48,6 @@ For these reasons users choose to purchase multiple or unlimited licenses.
 * You can see if you have a Basic or Pro license on the My licenses page and also upgrade from Basic to Pro there.
 
 
-### Choosing between Site license, Country license and World license
-
-*Different licensing for unlimited Server installations*
-
-* Choose a Site license if you have all Servers within one physical location i.e. a data center.
-* Choose a Country license if you have more than one data center, one cloud service with more than 2 regions or more than one cloud service.
-* Chose a World license if you operate with installations in more than one country.
-
-The need for limitless storage space, high availability, low latency and scalable infrastructures has increased the number of available cloud services for file storage. Data backup, synchronization of files, redundancy and cross platform support are some reasons for using cloud services.
-
-
 ### FAQ
 
 *Frequently asked questions*
