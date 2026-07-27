@@ -38,16 +38,6 @@ The acronym DTAP is short for Development, Testing, Acceptance and Production an
 
 For these reasons users choose to purchase multiple or unlimited licenses.
 
-### Choosing between Basic and Pro license
-
-*Two different editions of VisualCron with different features*
-
-* VisualCron is released in two editions with different features
-* A full comparison of features can be found here
-* It is possible to later upgrade from Basic to Pro - however that may cost more than purchasing the Pro version from the beginning
-* You can see if you have a Basic or Pro license on the My licenses page and also upgrade from Basic to Pro there.
-
-
 ### FAQ
 
 *Frequently asked questions*
