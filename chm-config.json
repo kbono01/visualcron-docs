@@ -4636,10 +4636,10 @@
       "mdFile": "docs/security/encrypted-values.md",
       "label": "Important Values Are Stored Encrypted"
     },
-    "security/interactive-logon": {
+    "security/archived-security": {
       "chmFile": "interactive_logon.htm",
-      "mdFile": "docs/security.md",
-      "label": "Interactive Logon"
+      "mdFile": "docs/security/archived-security.md",
+      "label": "Archived Security"
     },
     "commands/commands-scripts-third-party-tools": {
       "chmFile": "commands_scripts_and_third_par.htm",
