@@ -954,6 +954,7 @@ module.exports = {
                   'client-user-interface/server/connection-pop3',
                   'client-user-interface/server/connection-imap4',
                   'client-user-interface/server/connection-exchange-ews',
+                  'client-user-interface/server/connection-microsoft-graph-api',
                   'client-user-interface/server/connection-exchange-webdav',
                   'client-user-interface/server/connection-webdav',
                   'client-user-interface/server/connection-sql',
@@ -991,6 +992,7 @@ module.exports = {
               'client-user-interface/server/global-network-drives',
               'client-user-interface/server/global-notifications',
               'client-user-interface/server/global-pgp-key-rings',
+              'client-user-interface/server/global-ssh-keys',
               'client-user-interface/server/global-time-exceptions',
               {
                 type: 'category',
