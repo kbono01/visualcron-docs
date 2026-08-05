@@ -1254,7 +1254,18 @@ module.exports = {
       ],
     },
     'debugging-and-logging',
-    'security',
+    {
+      type: 'category',
+      label: 'Security',
+      collapsed: true,
+      link: {
+        type: 'doc',
+        id: 'security',
+      },
+      items: [
+        'security/archived-security',
+      ],
+    },
     {
       type: 'category',
       label: 'Commands, Scripts, and Third Party Tools',
