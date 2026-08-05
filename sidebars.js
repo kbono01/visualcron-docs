@@ -48,7 +48,6 @@ module.exports = {
             'using-visualcron/licensing',
             'using-visualcron/trial-time',
             'using-visualcron/choosing-the-right-license',
-            'using-visualcron/basic-vs-pro-edition',
             'using-visualcron/license-and-activation',
             {
               type: 'category',

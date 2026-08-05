@@ -135,11 +135,6 @@
       "mdFile": "docs/using-visualcron/choosing-the-right-license.md",
       "label": "Choosing the Right License"
     },
-    "using-visualcron/basic-vs-pro-edition": {
-      "chmFile": "basic-vs-pro-edition.htm",
-      "mdFile": "docs/using-visualcron/basic-vs-pro-edition.md",
-      "label": "Basic vs Pro Edition"
-    },
     "using-visualcron/license-and-activation": {
       "chmFile": "trial_license_and_activation.htm",
       "mdFile": "docs/using-visualcron/license-and-activation.md",
