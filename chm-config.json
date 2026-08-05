@@ -49,6 +49,11 @@
       "mdFile": "docs/get-visualcron/download-install-upgrade-uninstall.md",
       "label": "Download, Install, Upgrade and Uninstall"
     },
+    "get-visualcron/antivirus-exclusions": {
+      "chmFile": "antivirus-exclusions.htm",
+      "mdFile": "docs/get-visualcron/antivirus-exclusions.md",
+      "label": "Antivirus and Endpoint Protection Exclusions"
+    },
     "get-visualcron/assembly-resolver": {
       "chmFile": "assembly-resolver.htm",
       "mdFile": "docs/get-visualcron/assembly-resolver.md",

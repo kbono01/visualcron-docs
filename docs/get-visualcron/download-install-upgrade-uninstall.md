@@ -83,6 +83,10 @@ VisualCron can be uninstalled by opening the Control Panel -> Add/Remove program
 4. Write something like to log the installation file: msiexec /i "C:\MyPackage\Example.msi" /L*V "C:\log\example.log"
 5. Send the log file to support@visualcron.com
  
+**Antivirus**
+
+For the full list of folders, processes, and ports to consider excluding on a VisualCron server, see [Antivirus and Endpoint Protection Exclusions](antivirus-exclusions). The two install time detections below are the ones most people hit first.
+ 
 **Antivirus and problems with psexec.exe**
 
 Your antivirus may block installation of a file called psexec.exe included in our package:

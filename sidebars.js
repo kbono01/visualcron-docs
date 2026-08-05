@@ -21,6 +21,7 @@ module.exports = {
       items: [
         'get-visualcron/get-visualcron',
         'get-visualcron/download-install-upgrade-uninstall',
+        'get-visualcron/antivirus-exclusions',
         'get-visualcron/assembly-resolver',
         'get-visualcron/remote-silent-customized-installation',
         'get-visualcron/multiple-clients-on-same-machine',
