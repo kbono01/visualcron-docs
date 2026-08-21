@@ -11,7 +11,6 @@ Our license guide estimates number and type of licenses needed.
 
 We have created a quiz to help you estimate the license type that fits best according to your needs. It is an approximation based on basic requirements. The final result might differ from your full needs. You can test our new license guide [here](https://www.visualcron.com/licenseguide.aspx).
 
-
 ### Which license type / quantity is right for me?
 
 When do I need more than one VisualCron Server license?
@@ -64,7 +63,7 @@ A Server license is required for each machine independent of the role of the mac
 
 **Can we upgrade our license to x type of license later?**
 
-We do not offer upgrade from single server license to 5-server license pack but we offer upgrade from 5-server license pack to greater. Please contact Sales for a personal offer based on your situation.
+We do not offer upgrades for existing licenses, but we offer the ability to convert a perpetual to subscription to access all new features your tier has access to. 
 
 **May I resell VisualCron licenses of type Site, Cloud, Country and World?**
 
@@ -72,11 +71,11 @@ No, but if you want to act as reseller we can give you discount on all purchases
 
 **How does renewal work?**
 
-For more information of the Subscription / Maintenance & Support Pack please check here.
+You can find the current pricing on new license keys at [here](https://admin.visualcron.com/order.aspx), and your renewal price through emails or at: https://admin.visualcron.com/MyLicenses.aspx by selecting renew selected. 
 
 **How much are the different licenses and renewals?**
 
-You can find the current pricing [here](https://www.visualcron.com/order.aspx).
+You can find the current pricing [here](https://www.visualcron.com/order.aspx) and your renewal price through emails or at: https://admin.visualcron.com/MyLicenses.aspx by selecting renew selected. 
 
 **Is the Client application free / not requiring a license?**
 
